@@ -117,9 +117,21 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 17.Click on save & apply. So finally the setting up of LPS8 Dragino LoRaWAN Gateway completes.
 
 
+<img width="1526" height="805" alt="Screenshot 2025-10-31 091547" src="https://github.com/user-attachments/assets/16ef7eed-2c42-4c32-8466-c1d00f436244" />
+
+
+<img width="1919" height="1193" alt="Screenshot 2025-10-31 081822" src="https://github.com/user-attachments/assets/5c2d80b4-51bb-4e65-8633-49ac8b137a79" />
+
+
+
+<img width="1919" height="1191" alt="Screenshot 2025-10-31 081926" src="https://github.com/user-attachments/assets/e942acf9-ad91-4b45-ac13-37acb8c2c367" />
+
+
+
 
 ## OUTPUT 
 
+<img width="1919" height="1198" alt="Screenshot 2025-10-31 081943" src="https://github.com/user-attachments/assets/53c8421c-21eb-44b9-910a-ceb4a2e3714d" />
 
 
 
